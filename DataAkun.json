@@ -1,0 +1,20 @@
+[
+  {
+    "nama": "mimin",
+    "username": "admin",
+    "password": "admin",
+    "status": "admin"
+  },
+  {
+    "nama": "Ferdi",
+    "username": "ferdi",
+    "password": "sablon",
+    "status": "pembeli"
+  },
+  {
+    "nama": "sambo",
+    "username": "sambo",
+    "password": "sambo",
+    "status": "pembeli"
+  }
+]

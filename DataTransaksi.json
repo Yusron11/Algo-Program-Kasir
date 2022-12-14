@@ -1,0 +1,30 @@
+[
+  {
+    "tanggal": "12-December-2021",
+    "nama": "Jaket",
+    "harga": 175000,
+    "jumlah": 2,
+    "total": 350000
+  },
+  {
+    "tanggal": "14-December-2021",
+    "nama": "Jaket",
+    "harga": 175000,
+    "jumlah": 2,
+    "total": 350000
+  },
+  {
+    "tanggal": "15-December-2021",
+    "nama": "Topi",
+    "harga": 55000,
+    "jumlah": 2,
+    "total": 110000
+  },
+  {
+    "tanggal": "13-December-2022",
+    "nama": "Kaos",
+    "harga": 95000,
+    "jumlah": 1,
+    "total": 95000
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "nama": "Topi",
+    "harga": 55000,
+    "stok": 289
+  },
+  {
+    "nama": "Kaos",
+    "harga": 95000,
+    "stok": 336
+  },
+  {
+    "nama": "Celana",
+    "harga": 125000,
+    "stok": 98
+  },
+  {
+    "nama": "Jaket",
+    "harga": 175000,
+    "stok": 161
+  },
+  {
+    "nama": "Sepatu",
+    "harga": 225000,
+    "stok": 76
+  }
+]
